@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Carlos Ortega Vázquez
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,32 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD in Fraud Analytics for Financial Applications (Applied Machine Learning)
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Katholieke Universiteit Leuven
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include machine learning.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Anomaly/Outlier Detection
+- Represention Learning in Graphs
+- Bayesian Inference
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Business Economics
+    institution: Katholieke Universiteit Leuven
+    year: 2019 - 2023
+  - course: MSc in Statistics
+    institution: Katholieke Universiteit Leuven
+    year: 2016 - 2018
+  - course: BA in Economics
+    institution: Tec de Monterrey
+    year: 2010 - 2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -69,7 +69,5 @@ user_groups:
 - Researchers
 - Visitors
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
